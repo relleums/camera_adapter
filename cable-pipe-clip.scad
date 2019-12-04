@@ -3,8 +3,8 @@ cable-clips for cable-pipe
 */
 $fn = 100;
 
-cable_pipe_diameter = 4.25;
-audio_cable_diameter = 3.0;
+cable_pipe_diameter = 4.15;
+audio_cable_diameter = 3.75;
 
 difference() {
     union() {
